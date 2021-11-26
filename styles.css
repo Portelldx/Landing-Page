@@ -10,8 +10,7 @@ body {
 }
 
 /* HEADER */
-
-.header {
+header {
   background-color: #1f2937;
   padding: 1em 13em;
 }
@@ -39,7 +38,7 @@ body {
 .secondary,
 a:link {
   font-size: 18px;
-  color: #e5e7eb;
+  color: #8d8f94;
   text-decoration: none;
 }
 
@@ -63,7 +62,7 @@ a:link {
   width: 50%;
 }
 
-h1 {
+.hero {
   color: #f9faf8;
   font-weight: 900;
   font-size: 48px;
